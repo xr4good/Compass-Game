@@ -1,0 +1,11 @@
+Model Information:
+* title:	Very Low Poly Table
+* source:	https://sketchfab.com/3d-models/very-low-poly-table-e30772484f704af4827d2801bdda5fdb
+* author:	Tide-Dragon (https://sketchfab.com/Tide-Dragon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Very Low Poly Table" (https://sketchfab.com/3d-models/very-low-poly-table-e30772484f704af4827d2801bdda5fdb) by Tide-Dragon (https://sketchfab.com/Tide-Dragon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
